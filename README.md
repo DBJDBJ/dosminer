@@ -4,9 +4,9 @@ dosminer
 ----------------------- 
 (c)2015 by [DBJ.ORG](http://dbj.org)
 ------------------------------------  
-From the Primordial Soup Department
+### From the Primordial Soup Department
 
-*C WIN32 Console App*
+###C WIN32 Console App
 
 Original was written in C. It compileth and worketh using Borland Turbo C and its console library.
 
