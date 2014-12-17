@@ -43,7 +43,7 @@
 	WIN32 Console Fiddler
 ------------------------------------------------------------------
 */
-#include <graph.h>
+// probably a mistake: #include <graph.h>
 
 #define TEXTMODE40X24 (_setvideomode( _TEXTC40 ), _settextrows(25))
 #define TEXTMODE80X24 (_setvideomode( _TEXTC80 ), _settextrows(25))
