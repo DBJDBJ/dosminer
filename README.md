@@ -1,9 +1,9 @@
-dosminer
-========
-(c)Apr 1994 DBJ*LTD(r) 
------------------------ 
-(c)2015 by [DBJ.ORG](http://dbj.org)
-------------------------------------  
+# dosminer
+
+## &copy; Apr 1994 DBJ*LTD &trade;
+
+## &copy; 2015 by [DBJ.ORG](https://dbj.org)
+
 ### From the Primordial Soup Department
 
 ### C WIN32 Console App
